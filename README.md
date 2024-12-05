@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sneha Roychowdhury
+- 👋 Hi, I’m Sneha 
 - 👀 I’m interested in Problem Solving, Data Structures, and Deep Learning
 - 🌱 I’m currently learning NLP (Basics) and MLOps
 - 💞️ I’m looking to collaborate on research projects and hackathons
