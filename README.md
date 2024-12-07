@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sneha 
+Hey! I'm Sneha ✨
 
 <!---
 sneharc16/sneharc16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
