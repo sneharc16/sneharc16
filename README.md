@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in ECE (AI Specialization), IGDTUW | 2023–2027 | CGPA: 8.60  
+- 🎓 B.Tech in ECE (AI Specialization), IGDTUW | 2023–2027  
 - 🧠 Aspiring ML & Deep Learning Engineer with a knack for applied research  
 - 💼 **Research Intern @ DRDO (DESIDOC)** – Working on deep clustering and autoencoders for high-efficiency image compression using advanced ML & computer vision  
 - 🌱 Currently exploring: `React.js`, `Node.js`, `MongoDB`, `Express.js`  
