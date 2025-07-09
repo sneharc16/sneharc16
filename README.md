@@ -8,8 +8,6 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech (2023-27)  
-- 💼 **Research Intern @ DRDO (DESIDOC)** – Working on deep clustering and autoencoders for image compression  
 - 🌱 Currently learning: `React.js`, `Node.js`, `MongoDB`, `Express.js`  
 - 🧠 Interests: Computer Vision, AI Systems, Full-Stack Development  
 - ⚡ Always building, debugging, and iterating with curiosity 
