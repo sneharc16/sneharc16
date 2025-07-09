@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sneha Roychowdhury
+# 👋 Hi, I'm Sneha
 
 🎯 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development  
 💡 Currently diving deep into modern Frontend & Backend technologies  
