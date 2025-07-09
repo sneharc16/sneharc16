@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sneha
+# 👋 Hi, I'm Sneha Roychowdhury
 
 🎯 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development  
 💡 Currently diving deep into modern Frontend & Backend technologies  
@@ -7,26 +7,35 @@
 ---
 
 ## 🚀 About Me
-- 🧠 Aspiring ML & Deep Learning Engineer with a knack for applied research  
-- 💼 **Research Intern @ DRDO (DESIDOC)** – Working on deep clustering and autoencoders for high-efficiency image compression using advanced ML & computer vision  
-- 🌱 Currently exploring: `React.js`, `Node.js`, `MongoDB`, `Express.js`  
-- 🔍 Interests: Computer Vision, AI Systems, Full-Stack Development  
-- 🛠️ Always building, debugging, and iterating with curiosity  
 
----
-
-## 🏆 Highlight Achievement
-
-1. 🥇 **Winner**, Smart India Hackathon 2024 Grand Finale – Led a 5-member team, building impactful solutions for national challenges  
+- 🎓 B.Tech (2023-27)  
+- 💼 **Research Intern @ DRDO (DESIDOC)** – Working on deep clustering and autoencoders for image compression  
+- 🌱 Currently learning: `React.js`, `Node.js`, `MongoDB`, `Express.js`  
+- 🧠 Interests: Computer Vision, AI Systems, Full-Stack Development  
+- ⚡ Always building, debugging, and iterating with curiosity 
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python, JavaScript, HTML, CSS, R  
-- **Frameworks/Libraries:** React.js, TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV  
-- **Tools:** Git, GitHub, MATLAB, Streamlit  
-- **Other Skills:** Problem-Solving, Leadership, Technical Communication  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+</p>
 
 ---
 
@@ -48,6 +57,36 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sneharc16&theme=flat&margin-w=10" />
 </p>
 
+## 🧠 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sneharc16&theme=default" />
+</p>
+
+## 📆 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneharc16&theme=github" />
+</p>
+
+## 📌 Overview Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneharc16&theme=default" />
+</p>
+
+## 🔥 Most Productive Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sneharc16&theme=default" />
+</p>
+
+## ⏰ Time of Coding
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sneharc16&theme=default&utcOffset=5.5" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
@@ -61,4 +100,3 @@
 ## ✨ Fun Fact
 
 When I'm not debugging neural networks or coding interfaces, I'm probably sipping chai and sketching out my next side project ☕
-
