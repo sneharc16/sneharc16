@@ -1,6 +1,6 @@
 # Hi, I'm Sneha Roychowdhury
 
-✨ Aspiring AI Engineer | Tech Enthusiast | Creative Thinker  
+✨ Aspiring Engineer | Tech Enthusiast | Creative Thinker  
 💻 Passionate about Machine Learning, Computer Vision, and Full-Stack Development  
 🌸 On a journey to design thoughtful, inclusive, and impactful tech solutions  
 🧠 I blend logic with creativity to bring ideas to life through code
