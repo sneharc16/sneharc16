@@ -1,4 +1,4 @@
-# Hi, I'm Sneha Roychowdhury
+# Hi, I'm Sneha
 
 ✨ Aspiring Engineer | Tech Enthusiast | Creative Thinker  
 💻 Passionate about Machine Learning, Computer Vision, and Full-Stack Development  
