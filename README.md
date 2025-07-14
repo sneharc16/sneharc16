@@ -55,12 +55,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sneharc16&theme=flat&margin-w=10" />
 </p>
 
-## 🧠 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=sneharc16&theme=default&hide_border=true" alt="sneharc16's GitHub Streak" />
-</p>
-
 
 ## 📆 GitHub Activity Graph
 
