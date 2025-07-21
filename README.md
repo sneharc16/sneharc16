@@ -1,6 +1,6 @@
 # 💖 Hi, I'm Sneha 🌸
 
-✨ Aspiring Engineer | Tech Enthusiast | Creative Thinker  
+✨ Aspiring Software Engineer | Tech Enthusiast | Creative Thinker  
 💻 Passionate about Machine Learning, Computer Vision & Full-Stack Development  
 🌷 On a mission to design thoughtful, inclusive & impactful tech solutions  
 🧠 I blend **logic with creativity** to bring beautiful ideas to life through code  
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stacks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
