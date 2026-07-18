@@ -1,4 +1,4 @@
-Hi, I'm Sneha Roychowdhury
+#Hi, I'm Sneha Roychowdhury
 
 Aspiring Software Engineer | Machine Learning Enthusiast | Full-Stack Developer
 
