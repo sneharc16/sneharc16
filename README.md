@@ -15,9 +15,9 @@
 ```yaml
 name: Sneha Roychowdhury
 located_in: New Delhi, India 🇮🇳
-education: B.Tech ECE-AI @ IGDTUW (2023–2027) ✨ CGPA 8.6/10
+education: B.Tech Eectronicds and Communication Engineering-Artificial Intelligence @ IGDTUW (2023–2027) ✨ 
 currently_learning: ["System Design", "GenAI & RAG", "Quant Finance"]
-fun_fact: "I debug best with a cup of chai in hand ☕"
+fun_fact: "I debug best with a cup of coffee in hand ☕"
 ```
 
 - 🌷 Building projects across **Machine Learning, Computer Vision, Data Science & Full-Stack Dev**
