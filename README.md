@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm Sneha Roychowdhury 🌸</h1>
+<h1 align="center">🌸 Hi, I'm Sneha 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+💻;Machine+Learning+Enthusiast+🤖;Full-Stack+Developer+🎀;Competitive+Programmer+⚡;Building+tech+with+heart+💖" alt="Typing SVG" />
@@ -13,9 +13,9 @@
 ## 🎀 About Me
 
 ```yaml
-name: Sneha Roychowdhury
+name: Sneha
 located_in: New Delhi, India 🇮🇳
-education: B.Tech Eectronicds and Communication Engineering-Artificial Intelligence @ IGDTUW (2023–2027) ✨ 
+education: B.Tech @ IGDTUW (2023–2027) ✨ 
 currently_learning: ["System Design", "GenAI & RAG", "Quant Finance"]
 fun_fact: "I debug best with a cup of coffee in hand ☕"
 ```
