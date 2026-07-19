@@ -99,10 +99,6 @@ Cross-platform voice + text OS assistant with an offline-first architecture, int
 
 Trading pipeline processing **~770K records** — optimized VAR, Random Forest & Gradient Boosting models achieving **R² = 0.9991** and **73% RMSE reduction** 📉✨
 
-### 📚 Intellica — Course Recommendation System
-> `LLAMA` `GroqCloud API` `FAISS` `JavaScript`
-
-Multilingual course recommendation chatbot with FAISS embeddings & AI-powered quizzes, boosting user reach by **40%** 🌍
 
 ### 🗺️ LLM-Powered GIS Automation — Research @ DRDO
 > `React` `FastAPI` `LangChain` `PyQGIS` `PyTorch`
@@ -170,7 +166,7 @@ Automated spatial planning from natural language — **95% reduction in GIS task
 
 ## 🎹 Beyond Code
 
-When I'm not writing code or experimenting with AI, I'm usually playing piano 🎹, sketching ideas for side projects 🎨, journaling 📓, or recharging with chai ☕💕
+When I'm not writing code or experimenting with AI, I'm usually playing piano 🎹, sketching ideas for side projects 🎨, journaling 📓, or recharging with coffee ☕💕
 
 > *"The best technology is built with both precision and care — even the smallest details can make a product feel more human."* 🌸
 
